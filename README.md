@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 ## 📈 My GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Achraf-Ameri&show_icons=true&theme=radical" width="50%" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achraf-Ameri&theme=radical" width="50%" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achraf-Ameri&show_icons=true&theme=radical&hide_border=true" width="50%" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achraf-Ameri&theme=radical&hide_border=true" width="50%" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Achraf-Ameri&theme=radical&no-frame=true&row=1&column=3" width="50%" />
 </p>
 
