@@ -24,9 +24,11 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ## 📈 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Achraf-Ameri&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achraf-Ameri&layout=compact&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achraf-Ameri&show_icons=true&theme=radical" width="50%" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achraf-Ameri&theme=radical" width="50%" /><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Achraf-Ameri&theme=radical&no-frame=true&row=1&column=3" width="50%" />
+</p>
 
 ---
 
@@ -47,4 +49,10 @@ Creation of a website for the fictional company Notic Horizon and management of 
 - 🌐 [My Website]()
 - 💼 [LinkedIn](https://linkedin.com/in/achraf-ameri)
 - 📧 [Email Me](mailto:mohammed.ameri@etu.univ-tlse2.fr)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Have+a+Nice+Day!" alt="Typing SVG">
+</p>
 
