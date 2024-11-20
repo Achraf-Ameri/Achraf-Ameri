@@ -6,17 +6,14 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ## 🛠️ Skills and Expertise
 
-- **Languages:** [
-Java
-,
-Python
-,
-C++
-,
-etc.]
-- **Frameworks and Libraries:** [React, Django, TensorFlow, etc.]
-- **Tools and Platforms:** [Docker, AWS, Git, etc.]
-- **Interests:** [AI, Web Development, Game Development, etc.]
+- **Languages :** 
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com)
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org)
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">](https://www.cprogramming.com/)
+
+- **Tools and Platforms :** Linux, Git, etc.
+
+- **Interests :** Web Development, Game Development, AI.
 
 ---
 
