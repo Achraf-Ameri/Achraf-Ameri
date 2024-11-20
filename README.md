@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 - **Languages:** [Java, Python, C++, etc.]
 - **Frameworks and Libraries:** [React, Django, TensorFlow, etc.]
 - **Tools and Platforms:** [Docker, AWS, Git, etc.]
-- **Interests:** [AI/ML, Web Development, Game Development, etc.]
+- **Interests:** [AI, Web Development, Game Development, etc.]
 
 ---
 
