@@ -6,7 +6,14 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ## 🛠️ Skills and Expertise
 
-- **Languages:** [Java, Python, C++, etc.]
+- **Languages:** [
+Java
+,
+Python
+,
+C++
+,
+etc.]
 - **Frameworks and Libraries:** [React, Django, TensorFlow, etc.]
 - **Tools and Platforms:** [Docker, AWS, Git, etc.]
 - **Interests:** [AI, Web Development, Game Development, etc.]
