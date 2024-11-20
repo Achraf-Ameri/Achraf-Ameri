@@ -6,12 +6,17 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ## 🛠️ Skills and Expertise
 
-- **Languages :** 
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">](https://www.cprogramming.com/)
+- **Languages :**
 
-- **Tools and Platforms :** Linux, Git, etc.
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">](https://www.cprogramming.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">](https://www.php.net) |
+|:---:|:---:|:---:|:---:|
+| Java | Python | C | PHP |
+
+- **Tools and Platforms :**
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) |
+|:---:|:---:|
+| Linux | Git |
 
 - **Interests :** Web Development, Game Development, AI.
 
