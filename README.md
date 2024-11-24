@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 Graphical application for managing clients and employees of a bank.  
 **Tech Stack:** [JavaFx]
 
-### [Notic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
+### [Nautic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
 Creation of a website for the fictional company Notic Horizon and management of its inventory.  
 **Tech Stack:** [Python, JavaFx, PHP]
 
